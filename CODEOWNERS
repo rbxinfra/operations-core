@@ -2,4 +2,6 @@
 /scripts/ @rbxinfra/platform-ci
 
 CODEOWNERS @rbxinfra/library-maintainers
-/src/ @rbxinfra/library-maintainers
+
+# Owned primarily by MSP and coord, sub ownership of the specific coord teams (avatar for thumbs, mm for games, ugc validation core)
+/src/ @rbxinfra/micro-services-platform @rbxinfra/coordination-platform @rbxinfra/matchmaking-core @rbxinfra/avatars-team @rbxinfra/ugc
